@@ -1,3 +1,4 @@
 name: Jeeranan Janhom
 nickname: Tik
 age: 20
+#my profile
